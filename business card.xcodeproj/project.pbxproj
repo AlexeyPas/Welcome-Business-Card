@@ -13,9 +13,9 @@
 		555951B52545D7200046B26F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 555951B32545D7200046B26F /* Main.storyboard */; };
 		555951B72545D7240046B26F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 555951B62545D7240046B26F /* Assets.xcassets */; };
 		555951BA2545D7240046B26F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 555951B82545D7240046B26F /* LaunchScreen.storyboard */; };
-		555951D62545EF7F0046B26F /* Screenshot 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 555951D32545EF7F0046B26F /* Screenshot 3.png */; };
-		555951D72545EF7F0046B26F /* Screenshot 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 555951D42545EF7F0046B26F /* Screenshot 2.png */; };
 		555951D82545EF7F0046B26F /* Screenshot 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 555951D52545EF7F0046B26F /* Screenshot 1.png */; };
+		555951DD2545F0F40046B26F /* Screenshot 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 555951DB2545F0F40046B26F /* Screenshot 2.png */; };
+		555951DE2545F0F40046B26F /* Screenshot 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 555951DC2545F0F40046B26F /* Screenshot 3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,9 +27,9 @@
 		555951B62545D7240046B26F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		555951B92545D7240046B26F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		555951BB2545D7240046B26F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		555951D32545EF7F0046B26F /* Screenshot 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 3.png"; sourceTree = "<group>"; };
-		555951D42545EF7F0046B26F /* Screenshot 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2.png"; sourceTree = "<group>"; };
 		555951D52545EF7F0046B26F /* Screenshot 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 1.png"; sourceTree = "<group>"; };
+		555951DB2545F0F40046B26F /* Screenshot 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2.png"; sourceTree = "<group>"; };
+		555951DC2545F0F40046B26F /* Screenshot 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 3.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,9 +77,9 @@
 		555951D22545EF430046B26F /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				555951DB2545F0F40046B26F /* Screenshot 2.png */,
+				555951DC2545F0F40046B26F /* Screenshot 3.png */,
 				555951D52545EF7F0046B26F /* Screenshot 1.png */,
-				555951D42545EF7F0046B26F /* Screenshot 2.png */,
-				555951D32545EF7F0046B26F /* Screenshot 3.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -141,11 +141,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				555951D62545EF7F0046B26F /* Screenshot 3.png in Resources */,
 				555951BA2545D7240046B26F /* LaunchScreen.storyboard in Resources */,
 				555951D82545EF7F0046B26F /* Screenshot 1.png in Resources */,
+				555951DE2545F0F40046B26F /* Screenshot 3.png in Resources */,
 				555951B72545D7240046B26F /* Assets.xcassets in Resources */,
-				555951D72545EF7F0046B26F /* Screenshot 2.png in Resources */,
+				555951DD2545F0F40046B26F /* Screenshot 2.png in Resources */,
 				555951B52545D7200046B26F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

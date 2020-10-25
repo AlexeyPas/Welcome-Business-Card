@@ -32,7 +32,7 @@
                         <viewLayoutGuide key="safeArea" id="VmX-cd-iXX"/>
                         <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <tabBarItem key="tabBarItem" tag="3" systemItem="contacts" id="M4f-ru-tBq"/>
+                    <tabBarItem key="tabBarItem" tag="3" systemItem="more" id="M4f-ru-tBq"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ggM-Dd-pku" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -115,7 +115,7 @@ https://github.com/AlexeyPas</string>
                         <viewLayoutGuide key="safeArea" id="fc7-CR-5e1"/>
                         <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <tabBarItem key="tabBarItem" tag="1" systemItem="more" id="GDB-Hn-fqQ">
+                    <tabBarItem key="tabBarItem" tag="1" systemItem="contacts" id="GDB-Hn-fqQ">
                         <color key="badgeColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBarItem>
                 </viewController>
