@@ -1,13 +1,13 @@
 //
-//  ViewController.swift
+//  ViewControllerSecond.swift
 //  business card
 //
-//  Created by Алексей Пасынков on 25.10.2020.
+//  Created by Алексей Пасынков on 13.11.2020.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewControllerSecond: UIViewController {
     
     var counterOfViewDidAppeear = 0 {
         didSet {
@@ -26,4 +26,3 @@ class ViewController: UIViewController {
 
 
 }
-

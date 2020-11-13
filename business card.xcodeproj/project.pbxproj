@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		55165FDF255EF86B00A67CF6 /* ViewControllerSecond.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55165FDE255EF86B00A67CF6 /* ViewControllerSecond.swift */; };
 		555951AE2545D7200046B26F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555951AD2545D7200046B26F /* AppDelegate.swift */; };
 		555951B02545D7200046B26F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555951AF2545D7200046B26F /* SceneDelegate.swift */; };
 		555951B22545D7200046B26F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555951B12545D7200046B26F /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		55165FDE255EF86B00A67CF6 /* ViewControllerSecond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSecond.swift; sourceTree = "<group>"; };
 		555951AA2545D7200046B26F /* business card.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "business card.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		555951AD2545D7200046B26F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		555951AF2545D7200046B26F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				555951D22545EF430046B26F /* Screenshots */,
 				555951AD2545D7200046B26F /* AppDelegate.swift */,
 				555951AF2545D7200046B26F /* SceneDelegate.swift */,
+				55165FDE255EF86B00A67CF6 /* ViewControllerSecond.swift */,
 				555951B12545D7200046B26F /* ViewController.swift */,
 				555951B32545D7200046B26F /* Main.storyboard */,
 				555951B62545D7240046B26F /* Assets.xcassets */,
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55165FDF255EF86B00A67CF6 /* ViewControllerSecond.swift in Sources */,
 				555951B22545D7200046B26F /* ViewController.swift in Sources */,
 				555951AE2545D7200046B26F /* AppDelegate.swift in Sources */,
 				555951B02545D7200046B26F /* SceneDelegate.swift in Sources */,
